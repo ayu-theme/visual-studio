@@ -4,7 +4,7 @@
         <Identity Id="vs.8e4719d3-f895-4e8a-9240-4c6af1c337c0" Version="0.0.1" Language="en-US" Publisher="dempfi" />
         <DisplayName>ayu</DisplayName>
         <Description xml:space="preserve">ayu theme for Visual Studio</Description>
-        <Icon>images\logo.png</Icon>
+        <Icon>logo.png</Icon>
         <Preview>true</Preview>
     </Metadata>
     <Installation>
