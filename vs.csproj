@@ -47,6 +47,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="ayu dark.vstheme" />
+    <None Include="ayu light.vstheme" />
+    <None Include="ayu mirage.vstheme" />
     <None Include="source.extension.vsixmanifest">
       <SubType>Designer</SubType>
     </None>
