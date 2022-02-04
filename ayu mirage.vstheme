@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="VSThemeFile1" GUID="{3d92912c-90c9-44f1-8099-1cd4bf4c9fc1}" BaseGUID="{04a7dfb6-18e7-49d5-bf19-aaba3e73455d}">
+  <Theme Name="VSThemeFile1 (1)" GUID="{26101ba4-7f2b-439c-ac81-ca370e49a21e}" BaseGUID="{04a7dfb6-18e7-49d5-bf19-aaba3e73455d}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF242936" />
@@ -5379,7 +5379,7 @@
       </Color>
       <Color Name="urlformat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF7474E1" />
       </Color>
       <Color Name="Caret (Primary)">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8726,6 +8726,10 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Logpoint (Error)">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Coverage Touched Area">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
