@@ -47,6 +47,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="ayu dark.vstheme" />
+    <None Include="ayu light.vstheme" />
+    <None Include="ayu mirage.vstheme" />
     <None Include="source.extension.vsixmanifest">
       <SubType>Designer</SubType>
     </None>
@@ -56,15 +59,15 @@
     <PackageReference Include="Microsoft.VSSDK.BuildTools" Version="17.0.3177-preview3" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="ayu mirage.pkgdef">
+    <Content Include="old_themes\ayu mirage.pkgdef">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="ayu light.pkgdef">
+    <Content Include="old_themes\ayu light.pkgdef">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="ayu dark.pkgdef">
+    <Content Include="old_themes\ayu dark.pkgdef">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
